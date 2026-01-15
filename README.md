@@ -1,6 +1,6 @@
 # Levi
 <h1 align="center">Hi 👋, I'm Levi Jasper ALicaya</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on [Appointment System (Clinic Setup)](https://github.com/Karleene27/CareLine_Clinic_Appointment_System)
 
